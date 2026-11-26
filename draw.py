@@ -219,7 +219,7 @@ def build():
     cols = [(M, 336), (352, 660), (676, W - M)]
     stories = [
         ("GULF SHIPPING", "Mines in the Strait",
-         "Iran says three oil tankers were hit by naval mines in the "
+         "Iran says two oil tankers were hit by naval mines in the "
          "Strait of Hormuz, raising fears for shipping.", draw_tanker),
         ("HEALTH • CONGO", "Ebola staff flee fighting",
          "WHO evacuates health workers from a hospital in Ituri after "
